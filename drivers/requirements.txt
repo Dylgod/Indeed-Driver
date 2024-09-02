@@ -1,0 +1,4 @@
+psutil>=6.0.0
+seleniumbase>=4.30.1
+supabase==2.7.3
+2captcha-python>=1.5.0
